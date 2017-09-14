@@ -1,0 +1,12 @@
+MyProjectCategoryIs {category}
+MyProjectCategoryIs I want to do a {category} project
+MyProjectCategoryIs I would like to start a {category} project
+MyProjectCategoryIs My project is a {category} project
+MyProjectCategoryIs My project type is {category}
+MyProjectDescriptionIs I need someone to {help put on shingles|description}
+MyProjectDescriptionIs I need someone to {go up on the roof and replace my terracotta shingles with wooden ones|description}
+MyProjectDescriptionIs My project description is I need someone to {help put on shingles|description}
+ContactMethod {method}
+ContactMethod please contact me through my {method}
+Confirm {confirmation}
+SupportedCategories Supported project types

@@ -1,0 +1,46 @@
+{
+  "intents": [
+    {
+      "intent": "MyProjectCategoryIs",
+      "slots": [
+        {
+          "name": "category",
+          "type": "LIST_OF_CATEGORIES"
+        }
+      ]
+    },
+    {
+      "intent": "MyProjectDescriptionIs",
+      "slots": [
+        {
+          "name": "description",
+          "type": "AMAZON.LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "ContactMethod",
+      "slots": [
+        {
+          "name": "method",
+          "type": "CONTACT_METHOD"
+        }
+      ]
+    },
+    {
+      "intent": "Confirm",
+      "slots": [
+      	{
+          "name": "confirmation",
+          "type": "CONFIRMATION"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "SupportedCategories"
+    }
+  ]
+}
