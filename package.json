@@ -1,0 +1,22 @@
+{
+  "name": "java-alexa-request-a-job",
+  "version": "1.0.0",
+  "description": "1. AWS CloudFormation 1. Java 1. Alexa Java SDK",
+  "main": "index.js",
+  "scripts": {
+    "validate-cloudformation": "./node_modules/.bin/cfn-lint validate "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aallbrig/java-alexa-request-a-job.git"
+  },
+  "author": "Andrew Allbright",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aallbrig/java-alexa-request-a-job/issues"
+  },
+  "homepage": "https://github.com/aallbrig/java-alexa-request-a-job#readme",
+  "devDependencies": {
+    "cfn-lint": "^1.1.6"
+  }
+}

@@ -1,0 +1,6 @@
+AWSTemplateFormatVersion: 2010-09-09
+Description: Resources required for Java based alexa skill
+Resources:
+  RequestAJob:
+    Type: 'AWS::Lambda::Function'
+    Properties: {}
